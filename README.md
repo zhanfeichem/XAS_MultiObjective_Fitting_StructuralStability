@@ -1,5 +1,6 @@
 # XAS_MultiObjective_Fitting_StructuralStability
-Multi-objective fitting of XAS spectroscopy and structural stability
+Multi-objective fitting of XAS spectroscopy and structural stability.
+
 ![Schematic diagram of the algorithm workflow](./workflow.png)
 ![Fitting results in Fe complex](./fitting_results1.png)
 # Multi-objective XAS 3D structure fitting incorporating accounting for structural reasonableness
